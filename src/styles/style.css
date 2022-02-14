@@ -1,0 +1,17 @@
+body {
+  color: #00ff22;
+  height: 100vh;
+  margin: 0;
+  border: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
+body p {
+  background-color: #941d62;
+  height: 100vh;
+  font-size: large;
+}
+body:hover {
+  color: yellow;
+  text-transform: uppercase;
+}
